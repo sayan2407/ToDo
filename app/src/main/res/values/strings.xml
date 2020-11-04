@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="forget_your_password">Forget Your Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="new_user_click_here">New User?Click Here</string>
+    <string name="welcome_to_todo_app">Welcome To ToDo App</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account_login_here">Already have account?Login Here</string>
+    <string name="log_out">log out</string>
+</resources>
