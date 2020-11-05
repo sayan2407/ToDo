@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="@string/home"/>
+        <item android:id="@+id/finish_task"
+            android:title="@string/finished_task"/>
+        <item android:id="@+id/log_out"
+            android:title="@string/log_out"/>
+    </group>
+
+</menu>
